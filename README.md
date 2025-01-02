@@ -53,4 +53,4 @@
 - 💼 [LinkedIn](https://linkedin.com/in/yeldos-abildos)
 - 🌐 [Portfolio] soon...
 - 🐦 [X](https://x.com/yabildos)
-- 📧 [Email Me](yabildos@gmail.com)
+- 📧 [Email Me](mailto:yabildos@gmail.com)
