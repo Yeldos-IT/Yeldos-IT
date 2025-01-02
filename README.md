@@ -26,6 +26,19 @@
 
 ---
 
+## 🎓 Certifications
+Here are some of the certifications I've earned to enhance my skills:
+
+- 📜 **[Excel Basics for Data Analysis](https://coursera.org/share/8638a34074f193888acaaad056b73449)** (IBM, Coursera)  
+- 📜 **[Data Visualization and Dashboards with Excel and Cognos](https://coursera.org/share/0779821eed22c788b94b5c7ffcaa6b77)** (IBM, Coursera)  
+- 📜 **[Business Intelligence (BI) Essentials](https://coursera.org/share/0fc8aaf7e8a23e5b8a7ec3255c07b689)** (IBM, Coursera)  
+- 📜 **[Python Data Structures](https://coursera.org/share/f03267f6a83c204ffecc9a1eb6fc5711)** (University of Michigan, Coursera)  
+- 📜 **[Layout Simulator, Emmet Plugin](https://stepik.org/cert/2714424)** (Stepik)  
+
+For more details, check out my [certifications repository](https://github.com/Yeldos-IT/My-Certifications).
+
+---
+
 ## 📌 Featured Projects
 ### 📂 [Python-Sorts](https://github.com/Yeldos-IT/Python-Sorts.git)
 > 🔄 **Description**: A collection of Python sorting algorithms for practice and demonstration.  
@@ -51,8 +64,13 @@
 
 ---
 
+## 🤝 Contributions
+I actively contribute to open-source projects and collaborate with other developers to solve challenges. Let's work together!
+
+---
+
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/yeldos-abildos)
-- 🌐 [Portfolio] soon...
-- 🐦 [X](https://x.com/yabildos)
+- 💼 [LinkedIn](https://linkedin.com/in/yeldos-abildos)  
+- 🌐 [Portfolio] coming soon...  
+- 🐦 [X](https://x.com/yabildos)  
 - 📧 [Email Me](mailto:yabildos@gmail.com)
