@@ -40,6 +40,15 @@ For more details, check out my [certifications repository](https://github.com/Ye
 ---
 
 ## 📌 Featured Projects
+### 📂 [Library Management System](https://github.com/Yeldos-IT/Library-Management-System)
+> 📚 **Description**: A JavaFX and MySQL-based library management system with user authentication and book management features.  
+> 🛠 **Technologies**: Java, JavaFX, MySQL, MD5 Hashing.  
+> 🌟 **Key Features**:  
+> - Secure login system with role-based access (Admin/User).  
+> - Add, update, delete, and export books.  
+> - Filter and search books by author, year, or keywords.  
+> - Open and manage book PDFs directly from the application.
+
 ### 📂 [Python-Sorts](https://github.com/Yeldos-IT/Python-Sorts.git)
 > 🔄 **Description**: A collection of Python sorting algorithms for practice and demonstration.  
 > 🛠 **Technologies**: Python.
