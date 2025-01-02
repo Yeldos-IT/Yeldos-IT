@@ -50,7 +50,7 @@
 ---
 
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/YourProfile)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/YourProfile)
-- 📧 [Email Me](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/yeldos-abildos-8a6444344/))
+- 🌐 [Portfolio] soon...
+- 🐦 [X](https://twitter.com/YourProfile)
+- 📧 [Email Me](yabildos@gmail.com)
