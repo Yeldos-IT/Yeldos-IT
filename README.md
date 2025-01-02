@@ -3,7 +3,7 @@
 - 🌟 A passionate **frontend developer** with a love for creating **interactive and user-friendly interfaces**.
 - 🎯 Exploring modern web technologies like **React**, **TailwindCSS**, and **Vite**.
 - 🚀 Always eager to learn and experiment with new tools and frameworks.
-- 🌱 Currently expanding my knowledge in **TypeScript**, **GSAP animations**, and **testing tools**.
+- 🌱 Currently expanding my knowledge in **TypeScript** and **testing tools**.
 
 ![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
