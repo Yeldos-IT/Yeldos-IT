@@ -50,7 +50,7 @@
 ---
 
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/yeldos-abildos-8a6444344/))
+- 💼 [LinkedIn](https://linkedin.com/in/yeldos-abildos)
 - 🌐 [Portfolio] soon...
 - 🐦 [X](https://twitter.com/YourProfile)
 - 📧 [Email Me](yabildos@gmail.com)
