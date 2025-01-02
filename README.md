@@ -52,5 +52,5 @@
 ## 📬 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/yeldos-abildos)
 - 🌐 [Portfolio] soon...
-- 🐦 [X](https://twitter.com/YourProfile)
+- 🐦 [X](https://x.com/yabildos)
 - 📧 [Email Me](yabildos@gmail.com)
