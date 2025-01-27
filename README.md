@@ -35,10 +35,6 @@ For more details, check out my [certifications repository](https://github.com/Ye
 > - Filter and search books by author, year, or keywords.  
 > - Open and manage book PDFs directly from the application.
 
-### 📂 [Python-Sorts](https://github.com/Yeldos-IT/Python-Sorts.git)
-> 🔄 **Description**: A collection of Python sorting algorithms for practice and demonstration.  
-> 🛠 **Technologies**: Python.
-
 ### 📂 [Python-Hackerrank.com](https://github.com/Yeldos-IT/Python-Hackerrank.com.git)
 > 💻 **Description**: Solutions to Python challenges from HackerRank.  
 > 🛠 **Technologies**: Python.
